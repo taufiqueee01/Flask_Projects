@@ -49,5 +49,3 @@ def chatarea():
     
         
     
-    
-app.run(debug=True)
