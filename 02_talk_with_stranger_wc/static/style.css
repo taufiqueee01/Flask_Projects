@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: dimgray;
+}
+input{
+    background-color: rgb(45, 41, 41);
+    color: white;
+}
+::placeholder{
+    color: rgb(111, 109, 109);
+}
+form{
+    text-align: center;
+}
+h1{
+    
+    text-align: center;
+}
+
+p{
+    color: aliceblue;
+}
+
+#messages{
+    height: 500px;
+    overflow-y: scroll;
+}
